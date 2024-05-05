@@ -97,3 +97,14 @@ h2 {
 .screen2 button {
   border-radius: 0.4rem;
 }
+
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.flex-item{
+  margin-right: 1rem;
+}
