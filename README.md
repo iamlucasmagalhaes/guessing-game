@@ -1,6 +1,6 @@
 <p>
    <a href="https://iamlucasmagalhaes.github.io/guessing-game/">
-    <img src="image/guessing-game-Photoroom.png-Photoroom.png">
+    <img src="image/guessing-game.png">
    </a>
 </p>
 
