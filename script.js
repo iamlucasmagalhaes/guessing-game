@@ -1,5 +1,4 @@
 const randomNumber = Math.floor(Math.random() * 100) + 1 //gera um número aleatório entre 1 e 100
-console.log(randomNumber)
 let maxHealth = 10 //define um valor para minha saúde máxima
 let numberOfAttempts = 1 //contaddor de tentativas
 const span = document.getElementById('maxHealth') //seleciona o meu span que vai ser alterado toda vez que o jogador errar o número
